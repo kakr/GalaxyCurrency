@@ -1,0 +1,1 @@
+This document contains the pre-requisities and instruction to build & run the GalaxyCurrency application
